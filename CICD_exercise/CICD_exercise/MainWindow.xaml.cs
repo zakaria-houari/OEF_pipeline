@@ -14,6 +14,10 @@ namespace CICD_exercise
         public MainWindow()
         {
             InitializeComponent();
+
+            int cijfer = 10;
+            string tekst = "hello";
+            cijfer* tekst;
         }
     }
 }
